@@ -1,0 +1,9 @@
+C:\Users\DOBRI\Desktop\programy csharp\ZgadnijLiczbe1\ZgadnijLiczbe\ZgadnijLiczbe\bin\Debug\ZgadnijLiczbe.exe.config
+C:\Users\DOBRI\Desktop\programy csharp\ZgadnijLiczbe1\ZgadnijLiczbe\ZgadnijLiczbe\bin\Debug\ZgadnijLiczbe.exe
+C:\Users\DOBRI\Desktop\programy csharp\ZgadnijLiczbe1\ZgadnijLiczbe\ZgadnijLiczbe\bin\Debug\ZgadnijLiczbe.pdb
+C:\Users\DOBRI\Desktop\programy csharp\ZgadnijLiczbe1\ZgadnijLiczbe\ZgadnijLiczbe\obj\Debug\ZgadnijLiczbe.csprojResolveAssemblyReference.cache
+C:\Users\DOBRI\Desktop\programy csharp\ZgadnijLiczbe1\ZgadnijLiczbe\ZgadnijLiczbe\obj\Debug\ZgadnijLiczbe.Form1.resources
+C:\Users\DOBRI\Desktop\programy csharp\ZgadnijLiczbe1\ZgadnijLiczbe\ZgadnijLiczbe\obj\Debug\ZgadnijLiczbe.Properties.Resources.resources
+C:\Users\DOBRI\Desktop\programy csharp\ZgadnijLiczbe1\ZgadnijLiczbe\ZgadnijLiczbe\obj\Debug\ZgadnijLiczbe.csproj.GenerateResource.Cache
+C:\Users\DOBRI\Desktop\programy csharp\ZgadnijLiczbe1\ZgadnijLiczbe\ZgadnijLiczbe\obj\Debug\ZgadnijLiczbe.exe
+C:\Users\DOBRI\Desktop\programy csharp\ZgadnijLiczbe1\ZgadnijLiczbe\ZgadnijLiczbe\obj\Debug\ZgadnijLiczbe.pdb
